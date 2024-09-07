@@ -1,5 +1,5 @@
 <a href="https://medium.com/@oninross/do-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63">
-  <img src="https://camo.githubusercontent.com/e25d173d73b3b9ea132e4b1ad6ac45ce715bd826e6b6947010d05c24e91fd125/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067" alt="Developer Banner" style="width: 1800px;">
+  <img src="fullstack-dev.png" alt="Developer Banner" style="width: 100%; max-width: 1800px;">
 </a>
 
 ### Software Developer 💻
@@ -9,7 +9,7 @@
 
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/contact-vishal-chothe/)
 
-📧 Reach out to me at vishalchothe134@gmail.com
+📧 Reach out to me at vishalchothe1407@gmail.com
 
 🌟  Let’s collaborate to create exceptional software together!
 
