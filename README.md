@@ -7,9 +7,9 @@
 
 📌 Explore my recent projects and contributions below 👇 👇
 
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/contact-vishal-chothe/)
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/)
 
-📧 Reach out to me at vishalchothe1407@gmail.com
+📧 Reach out to me at vishalchothe134@gmail.com
 
 🌟  Let’s collaborate to create exceptional software together!
 
