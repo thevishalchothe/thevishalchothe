@@ -1,6 +1,7 @@
-<a href="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
-  <img src="fullstack-dev.png" alt="Developer Banner" style="width: 100%; max-width: 1800px;">
+<a href="https://medium.com/@oninross/do-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Developer Banner" style="width: 1800px;">
 </a>
+
 
 ### Software Developer 💻
 🚀 Diving into the realms of software development and cutting-edge innovation.
