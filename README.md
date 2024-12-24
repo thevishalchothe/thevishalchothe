@@ -1,12 +1,13 @@
 <a href="https://medium.com/@oninross/do-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63">
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Developer Banner" style="width: 1800px;">
 </a>
+
 <a href="[https://medium.com/@oninross/do-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63](https://github.com/thevishalchothe)">
   <img src="ExpertisePicture.png" alt="Developer Banner" style="width: 1800px;">
 </a>
 
+ ### Software Developer 💻 | Innovator in Tech 🚀 
 
-### Software Developer 💻
 🚀 Diving into the realms of software development and cutting-edge innovation.
 
 📌 Explore my recent projects and contributions below 👇 👇
@@ -15,7 +16,7 @@
 
 📧 Reach out to me at vishalchothe134@gmail.com
 
-🌟  Let’s collaborate to create exceptional software together!
+🌟  Let’s collaborate to create exceptional software together! 
 
 
 <h1 align="center">Hi 👋, I'm Vishal Chothe</h1>
