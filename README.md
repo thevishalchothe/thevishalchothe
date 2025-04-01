@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Developer Banner" style="width: 1800px;">
 </a><br><br>
 
-<img align="right" alt="coding gif" width="500" src="https://www.thinkerminds.co.in/img/a-2.gif">
+<img align="right" alt="coding gif" width="450" src="https://www.thinkerminds.co.in/img/a-2.gif">
  
 ### Software Developer 💻 | Problem Solver | Innovator in Tech 🚀
 
@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/?" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/?" height="30" width="40" /></a>
-<a href="https://www.instagram.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/?" height="30" width="40" /></a>
+<a href="https://x.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/?" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/?" height="40" width="50" /></a>
+<a href="https://www.instagram.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/?" height="40" width="50" /></a>
 </p>
 
 ## Languages and Tools I Use
