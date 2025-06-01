@@ -24,11 +24,10 @@
             <li>🔗 Connect with me on <a href="https://www.linkedin.com/in/">LinkedIn</a></li>
             <li>✉️ Reach me at <a href="mailto:vishalchothe134@gmail.com">vishalchothe134@gmail.com</a></li>
             <li>🚀 Let’s build something amazing together!</li><br>
-            <li> &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=thevishalchothe&label=Profile%20views&color=0e75b6&style=flat" alt="thevishalchothe"/></li>
         </ul>
       </td>
-      <td align="right" style="vertical-align: top;">
-         <img src="https://www.thinkerminds.co.in/img/a-2.gif" alt="coding gif" width="100%" height="50%"/>
+     <td align="right" style="vertical-align: top;">
+         <img src="https://www.thinkerminds.co.in/img/a-2.gif" alt="coding gif" width="400px" height="300px"/>
       </td>
     </tr>
   </tbody>
@@ -36,7 +35,7 @@
 
 ---
 
-<img align="right" alt="coding gif" src="https://www.thinkerminds.co.in/img/gif-7.gif" style="width: 70%; height: auto; display: block;" />
+<img align="right" alt="coding gif" src="https://www.thinkerminds.co.in/img/gif-7.gif" width="400"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; gap: 20px; align-items: center;">
@@ -52,13 +51,10 @@
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="40" width="40" /></a>
 </p>
 
-## Languages and Tools I Work With 👨‍💻✔️
+## Languages and Tools I Work With 👨‍💻
 
 ### 🖥 Programming Languages
-  <code> <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="vertical-align: middle; margin-right: 50px;" /> </code>
- &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/thevishalchothe" style="vertical-align: middle; display: inline-block;">
-    <img height="80" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalchothe&layout=compact&theme=tokyonight" alt="Languages I Work With" style="vertical-align: middle;"/></a>
+<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></code>
 
 ### ⚙️ Frameworks & Libraries
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring"></code>
@@ -106,3 +102,12 @@
 </p>
 </div>
 
+---
+
+### The Snake That Eats My Commits 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thevishalchothe/thevishalchothe/blob/f43ff529478847f3dd778b4a79612c2cf832cbc0/contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/thevishalchothe/thevishalchothe/blob/f43ff529478847f3dd778b4a79612c2cf832cbc0/contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/thevishalchothe/thevishalchothe/blob/f43ff529478847f3dd778b4a79612c2cf832cbc0/contribution-grid-snake.svg">
+</picture>
